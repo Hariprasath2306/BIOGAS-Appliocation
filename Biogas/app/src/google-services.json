@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023867958987",
+    "firebase_url": "https://biogas-c4c2b-default-rtdb.firebaseio.com",
+    "project_id": "biogas-c4c2b",
+    "storage_bucket": "biogas-c4c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023867958987:android:e0d2e3211f631d310e8d4e",
+        "android_client_info": {
+          "package_name": "com.example.biogas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023867958987-vj1oejn87tm85756mp5id0eci382cehr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biogas",
+            "certificate_hash": "77d6b39bc95baf4ef56c67ce6d42646e9f2578c0"
+          }
+        },
+        {
+          "client_id": "1023867958987-road0esk5ne13ranaam07bmbuslvoh70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkha-unA5PrB5JWeX4XZwt8xLHK8G4f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023867958987-ql7gut7r478ns9lh15ih91f7gf8h541b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
